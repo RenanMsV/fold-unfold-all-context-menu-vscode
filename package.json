@@ -1,0 +1,67 @@
+{
+    "name": "fold-unfold-all-context-menu",
+    "displayName": "Fold/Unfold All Context Menu",
+    "description": "Adds right-click context menu entries to fold and unfold code blocks",
+    "version": "0.1.0",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "publisher": "Renan-MsV",
+    "author": "RenanMsV",
+    "icon": "./icon.png",
+    "license": "GPL-3.0",
+    "bugs": {
+        "url": "https://github.com/RenanMsV/fold-unfold-all-context-menu-vscode/issues",
+        "email": "none@none.none"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/RenanMsV/fold-unfold-all-context-menu-vscode.git"
+    },
+    "homepage": "https://github.com/RenanMsV/fold-unfold-all-context-menu-vscode",
+    "categories": [
+        "Other"
+    ],
+    "keywords": [
+        "fold",
+        "unfold",
+        "code folding",
+        "context menu",
+        "right click",
+        "editor",
+        "fold all",
+        "unfold all",
+        "vscode extension",
+        "productivity",
+        "shortcuts"
+    ],
+    "contributes": {
+        "menus": {
+            "editor/context": [
+                {
+                    "command": "editor.foldAll",
+                    "when": "editorTextFocus",
+                    "group": "editing@101"
+                },
+                {
+                    "command": "editor.unfoldAll",
+                    "when": "editorTextFocus",
+                    "group": "editing@102"
+                }
+            ]
+        },
+        "commands": [
+            {
+                "command": "editor.foldAll",
+                "title": "Fold All"
+            },
+            {
+                "command": "editor.unfoldAll",
+                "title": "Unfold All"
+            }
+        ]
+    },
+    "devDependencies": {
+        "@vscode/vsce": "^3.3.2"
+    }
+}
