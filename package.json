@@ -2,7 +2,7 @@
     "name": "fold-unfold-all-context-menu",
     "displayName": "Fold/Unfold All Context Menu",
     "description": "Adds right-click context menu entries to fold and unfold code blocks",
-    "version": "0.1.3",
+    "version": "0.1.4",
     "engines": {
         "vscode": "^1.0.0"
     },
