@@ -2,7 +2,15 @@
 
 [![logo](./icon.png?raw=true)](https://github.com/RenanMsV/fold-unfold-all-context-menu-vscode)
 
-[![Version](https://img.shields.io/visual-studio-marketplace/v/Renan-MsV.fold-unfold-all-context-menu.svg?logo=visual%20studio%20code)](https://marketplace.visualstudio.com/items?itemName=Renan-MsV.fold-unfold-all-context-menu) [![Rating](https://img.shields.io/visual-studio-marketplace/stars/Renan-MsV.fold-unfold-all-context-menu.svg?logo=visual%20studio%20code)](https://marketplace.visualstudio.com/items?itemName=Renan-MsV.fold-unfold-all-context-menu) [![Downloads](https://img.shields.io/visual-studio-marketplace/d/Renan-MsV.fold-unfold-all-context-menu.svg?logo=visual%20studio%20code)](https://marketplace.visualstudio.com/items?itemName=Renan-MsV.fold-unfold-all-context-menu) [![Build Status](https://img.shields.io/travis/com/RenanMsV/fold-unfold-all-context-menu-vscode?logo=travis)](https://travis-ci.com/RenanMsV/fold-unfold-all-context-menu-vscode) [![GNU General Public License](https://img.shields.io/github/license/RenanMsV/fold-unfold-all-context-menu-vscode?logo=github)](http://www.gnu.org/licenses/gpl-3.0.en.html)
+[![Version](https://img.shields.io/visual-studio-marketplace/v/Renan-MsV.fold-unfold-all-context-menu.svg?logo=visual%20studio%20code)](https://marketplace.visualstudio.com/items?itemName=Renan-MsV.fold-unfold-all-context-menu)
+[![Rating](https://img.shields.io/visual-studio-marketplace/stars/Renan-MsV.fold-unfold-all-context-menu.svg?logo=visual%20studio%20code)](https://marketplace.visualstudio.com/items?itemName=Renan-MsV.fold-unfold-all-context-menu)
+[![Downloads](https://img.shields.io/visual-studio-marketplace/d/Renan-MsV.fold-unfold-all-context-menu.svg?logo=visual%20studio%20code)](https://marketplace.visualstudio.com/items?itemName=Renan-MsV.fold-unfold-all-context-menu)
+[![Build Status](https://img.shields.io/travis/com/RenanMsV/fold-unfold-all-context-menu-vscode?logo=travis)](https://travis-ci.com/RenanMsV/fold-unfold-all-context-menu-vscode)
+[![GNU General Public License](https://img.shields.io/github/license/RenanMsV/fold-unfold-all-context-menu-vscode?logo=github)](http://www.gnu.org/licenses/gpl-3.0.en.html)
+
+[![Install from VS Marketplace](https://img.shields.io/badge/Install-VS%20Marketplace-blue?style=for-the-badge&logo=vs-code)](https://marketplace.visualstudio.com/items?itemName=Renan-MsV.fold-unfold-all-context-menu)  
+[![Install from Open VSX](https://img.shields.io/badge/Install-Open%20VSX-purple?style=for-the-badge&logo=vs-code
+)](https://open-vsx.org/extension/Renan-MsV/fold-unfold-all-context-menu)
 
 Adds right-click context menu entries to fold and unfold code blocks
 
